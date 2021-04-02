@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://sid001:pass1234@devscorner.5q3o7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://sid001:pass1234@devscorner.5q3o7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "gkwuhwubvwkjbfwekfb"
 }
